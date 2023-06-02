@@ -1,0 +1,13 @@
+first is data extraction 
+second is transfering it to excel file 
+
+https://towardsdatascience.com/how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754
+
+error got stderr org.apache.pdfbox.rendering.PDFRenderer suggestKCMS python
+
+https://excelfiles.space/en/python-en/how-to-extract-information-from-pdf-into-excel-or-csv-using-python
+
+https://inside-machinelearning.com/en/quickly-extract-table-from-pdf-to-excel-with-python/
+
+
+https://www.youtube.com/watch?v=y_ORF4FpZYo
