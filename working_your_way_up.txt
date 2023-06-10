@@ -11,3 +11,7 @@ https://inside-machinelearning.com/en/quickly-extract-table-from-pdf-to-excel-wi
 
 
 https://www.youtube.com/watch?v=y_ORF4FpZYo
+
+https://datascientyst.com/extract-table-from-pdf-with-python-pandas/
+
+https://stackoverflow.com/questions/56017702/how-to-extract-table-from-pdf-in-python
